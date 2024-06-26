@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "alibek",
+      "gender": "men"
+    },
+    {
+      "id": 2,
+      "name": "alibek2",
+      "gender": "men"
+    },
+    {
+      "id": 3,
+      "name": "alibek3",
+      "gender": "women"
+    },
+    {
+      "name": "test",
+      "gender": "women",
+      "id": 4
+    }
+  ]
+}
